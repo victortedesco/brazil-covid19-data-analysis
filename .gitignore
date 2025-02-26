@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+.virtual_documents
+
+# Jupyter runtime
+~$*
+
+# VS Code and IDEs
+.vscode/
+.idea/
+
+# Mac and Linux
+.DS_Store
+*.swp
+*.swo
+
+# Python dependency files
+*.egg-info/
+dist/
+build/
+
+# pip logs
+pip-log.txt
+
+# data
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# Environment or credentials
+.env
+*.env
+secrets.json
+config.json
+
+# Output images or plots
+*.png
+!/images/*.png
+!/images/*.jpg
+*.jpg
+*.jpeg
+*.pdf
+*.html 
+
+# __py
